@@ -50,6 +50,11 @@
       <artifactId>selenium-support</artifactId>
       <version>4.15.0</version>
     </dependency>
+      <dependency>
+          <groupId>org.seleniumhq.webdriver</groupId>
+          <artifactId>webdriver-common</artifactId>
+          <version>4.10.0</version>
+      </dependency>
 
   </dependencies>
   <build>
