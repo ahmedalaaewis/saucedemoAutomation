@@ -4,7 +4,7 @@
 This repository contains automated test scripts for the Sauce Labs demo website using Selenium WebDriver and TestNG. The tests cover various scenarios, including user login, product selection, and a full purchase workflow.
 
 ## Project Structure
-![SauceDemoUML](https://github.com/ahmedalaaewis/saucedemoAutomation/assets/92202872/ff170c7e-cb39-4966-bbb3-1a548a432f59)
+![image](https://github.com/ahmedalaaewis/saucedemoAutomation/assets/92202872/b26fe0ed-57b2-4825-bc0e-b2ca9ce84c0f)
 
 ## Prerequisites
 - Java
