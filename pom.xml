@@ -50,11 +50,19 @@
       <artifactId>selenium-support</artifactId>
       <version>4.15.0</version>
     </dependency>
-      <dependency>
-          <groupId>org.seleniumhq.webdriver</groupId>
-          <artifactId>webdriver-common</artifactId>
-          <version>4.10.0</version>
-      </dependency>
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-java</artifactId>
+      <version>4.16.1</version>
+    </dependency>
+
+
+    <dependency>
+      <groupId>com.aventstack</groupId>
+      <artifactId>extentreports</artifactId>
+      <version>5.1.1</version> <!-- Use the latest version -->
+    </dependency>
 
   </dependencies>
   <build>
